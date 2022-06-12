@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400&display=swap');
 
-* {
+/* * {
     box-sizing: border-box;
 }
 html, body {
@@ -29,45 +29,10 @@ body {
     position:absolute;
     width: 300px;
     border: 1px solid red;
-}
+} */
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* body {
+body {
     margin: 0 auto;
     padding: 0 auto;
     background-color: rgb(48, 33, 104);
@@ -124,7 +89,8 @@ span a {
     margin-bottom: 150px;
     margin-left: 30px;
     padding: 30px;
-    background: rgba(0,0,0,.5);
+    padding-top: 0;
+    /* background: rgba(0,0,0,.5); */
     height: 400px;
     width: 300px;
     color: grey;
@@ -197,4 +163,3 @@ footer {
 .outline {
     outline-color: red;
 }
-*/
