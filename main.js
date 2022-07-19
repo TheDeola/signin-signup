@@ -1,5 +1,3 @@
-// This is my Javascript file
-
 let signinBtn = document.querySelector(".signinBtn")
 let signupBtn = document.querySelector(".signupBtn")
 
